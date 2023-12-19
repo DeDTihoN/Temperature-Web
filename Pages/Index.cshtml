@@ -1,0 +1,27 @@
+﻿@* 
+ Страница Index.cshtml представляет собой форму, в которой пользователь может ввести название города и получить текущую температуру в этом городе. *@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Погода в городе";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <label for="cityInput">Введите город:</label>
+    <input type="text" asp-for="City" id="cityInput">
+    <button type="submit">Получить текущую температуру</button>
+</form>
+
+
+@if (!string.IsNullOrEmpty(Model.City)) {
+    @if (Model.Temperature != null)
+    {
+        <p>Текущая температура: @Model.Temperature C°</p>
+    }
+    else
+    {
+        <p>Город не найден (возможно введено неправильное название)</p>
+    }
+}

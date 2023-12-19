@@ -1,0 +1,42 @@
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\appsettings.json
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Temperature Web.staticwebassets.runtime.json
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Temperature Web.exe
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Temperature Web.deps.json
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Temperature Web.runtimeconfig.json
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Temperature Web.dll
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Temperature Web.pdb
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\Temperature Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\Temperature Web.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\Temperature Web.AssemblyInfo.cs
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\Temperature Web.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\Temperature Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\Temperature Web.RazorAssemblyInfo.cache
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\Temperature Web.RazorAssemblyInfo.cs
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\staticwebassets\msbuild.Temperature Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Temperature Web.props
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Temperature Web.props
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Temperature Web.props
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\scopedcss\bundle\Temperature Web.styles.css
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\scopedcss\projectbundle\Temperature Web.bundle.scp.css
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\Temperature Web.dll
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\refint\Temperature Web.dll
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\Temperature Web.pdb
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\Temperature Web.genruntimeconfig.cache
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\ref\Temperature Web.dll
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Google.Apis.Translate.v2.dll
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Google.Cloud.Translation.V2.dll
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\Temperature Web.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\Temperature Web.csproj.CopyComplete
