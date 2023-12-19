@@ -8,13 +8,15 @@
 
 <h2>@ViewData["Title"]</h2>
 
+
+@*При отправке формы будет вызван метод OnPost, который получит текущую температуру введенного города и отобразит ее на странице. *@ 
 <form method="post">
     <label for="cityInput">Введите город:</label>
     <input type="text" asp-for="City" id="cityInput">
     <button type="submit">Получить текущую температуру</button>
 </form>
 
-
+@* Выводим текущую температуру, если она получена  *@
 @if (!string.IsNullOrEmpty(Model.City)) {
     @if (Model.Temperature != null)
     {

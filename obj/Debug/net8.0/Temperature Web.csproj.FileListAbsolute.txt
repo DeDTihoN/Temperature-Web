@@ -40,3 +40,4 @@ C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInt
 C:\Users\pc\source\repos\Temperature Web\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\Temperature Web.csproj.AssemblyReference.cache
 C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\Temperature Web.csproj.CopyComplete
+C:\Users\pc\source\repos\Temperature Web\obj\Debug\net8.0\Temperature Web.sourcelink.json

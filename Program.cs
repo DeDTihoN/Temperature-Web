@@ -1,3 +1,4 @@
+using Microsoft.Extensions.Configuration;
 using Temperature_Web.Interfaces;
 using Temperature_Web.Services;
 
@@ -8,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 // 
 builder.Services.AddRazorPages();
-// регистрация сервиса в контейнере зависимостей 
+// регистрация сервиса в контейнере зависимостей
 builder.Services.AddScoped<ITemperatureService, TemperatureService>();
 
 var app = builder.Build();

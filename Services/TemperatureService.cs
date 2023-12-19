@@ -5,14 +5,16 @@ using Temperature_Web.Interfaces;
 
 namespace Temperature_Web.Services
 {
+    // реализация интерфейса ITemperatureService 
     public class TemperatureService : ITemperatureService
     {
         // ключи для доступа к API Google Translate и OpenWeatherMap 
-        private const string GoogleTranslateApiKey = "AIzaSyAqbcpU-ZU0K_krumb6wlijpKzud3Jpej4";
-        private const string OpenWeatherMapApiKey = "76b6a91eaa1f27a40f0bff71376e1b55";
-        private string TranslateCityToEnglish(string russianCity)
+        // метод для перевода названия города на английский язык с помощью Google Translate API
+        private string TranslateCityToEnglish(string russianCity,string GoogleTranslateApiKey)
         {
+            // try-catch блок для обработки исключений если ключи не верны или закончились лимиты, а также если запрос пустой
             try{
+                // создание клиента для работы с Google Translate API 
                 using (TranslationClient client = TranslationClient.CreateFromApiKey(GoogleTranslateApiKey))
                 {
 
@@ -25,9 +27,10 @@ namespace Temperature_Web.Services
                 return "";
             }
         }
-        public double? GetTemperature(string russianCity)
+        public double? GetTemperature(string russianCity,string GoogleTranslateApiKey,string OpenWeatherMapApiKey)
         {
-            string englishCity = TranslateCityToEnglish(russianCity);
+            string englishCity = TranslateCityToEnglish(russianCity,GoogleTranslateApiKey);
+            // try-catch блок
             try
             {
                 string apiKey = OpenWeatherMapApiKey;
@@ -51,6 +54,7 @@ namespace Temperature_Web.Services
                     }
                 }
             }
+            // обработка исключений (происходит когда название города не найдено) или закончились лимиты API запросов
             catch (Exception ex)
             {
                 return null;
